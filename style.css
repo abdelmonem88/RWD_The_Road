@@ -17,9 +17,9 @@ a {
 	text-decoration: none;
 }
 
-/* html {
+html {
 	font-size: 10px;
-} */
+}
 
 :root {
 	--primary-color: #2b81e4;
